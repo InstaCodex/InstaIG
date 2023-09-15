@@ -6,7 +6,3 @@
 
 # Hasil Cracking
 ![alt text](https://raw.githubusercontent.com/InstaCodex/InstaFelixc/main/Screenshot/HasilCracking.jpg?raw=true)
-
-# Install Tools
-$pkg upade && pkg upgrade
-$pkg install python
