@@ -24,6 +24,10 @@ $ python IGF.py
 # Hasil Cracking
 ![alt text](https://raw.githubusercontent.com/InstaCodex/InstaFelixc/main/Screenshot/HasilCracking.jpg?raw=true)
 
+#### Saran penggunaan
+``` python
+Untuk Hasil OK Tergantung Target, Hasil Mulai Checkpoint IP Spam Istirahatkan Handpone Selama 2/3 Harian
+
 #### Update tools
 ``` bash
 $ cd InstaFelixc
