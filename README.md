@@ -28,6 +28,9 @@ $ python IGF.py
 -  APIV1
 -  APIV2
 
+## Saran Gw
+- Notice Me: ```Hasil Crack Followers Banyak Atau Sedikit Tergantung Target Yang Dipilih```
+
 #### Update tools
 ``` bash
 $ cd InstaFelixc
