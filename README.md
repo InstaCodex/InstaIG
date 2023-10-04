@@ -24,6 +24,10 @@ $ python IGF.py
 # Hasil Cracking
 ![alt text](https://raw.githubusercontent.com/InstaCodex/InstaFelixc/main/Screenshot/HasilCracking.jpg?raw=true)
 
+## Method Crack
+-  APIV1
+-  APIV2
+
 #### Update tools
 ``` bash
 $ cd InstaFelixc
