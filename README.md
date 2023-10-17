@@ -5,7 +5,7 @@
 $ pkg update && pkg upgrade
 $ pkg install git
 $ pkg install python
-$ pkg upgrade python
+$ python -m pip install --upgrade pip
 $ pip install mechanize
 $ pip install requests
 $ pip install stdiomask
@@ -13,7 +13,7 @@ $ pip install bs4
 $ pip install rich
 $ git clone https://github.com/InstaCodex/InstaFelixc
 $ cd InstaFelixc
-$ python IGF.py
+$ python run.py
 ```
 # Menu Login Cookies
 ![alt text](https://raw.githubusercontent.com/InstaCodex/InstaFelixc/main/Screenshot/LoginCookies.jpg?raw=true)
