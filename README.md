@@ -6,6 +6,9 @@ $ pkg update && pkg upgrade
 $ pkg install git
 $ pkg install python
 $ python -m pip install --upgrade pip
+$ pkg install libexpat
+$ pkg install openssl
+$ pkg upgrade python
 $ pip install mechanize
 $ pip install requests
 $ pip install stdiomask
@@ -28,7 +31,7 @@ $ python run.py
 ![alt text](https://raw.githubusercontent.com/InstaCodex/InstaFelixc/main/Screenshot/PassworCracking.jpg)
 
 # Hasil Cracking
-![alt text]()
+![alt text](https://raw.githubusercontent.com/InstaCodex/InstaFelixc/main/Screenshot/HasilCracking.jpg)
 
 ## Saran Gw
 - Notice Me: ```Hasil Crack Followers Banyak Atau Sedikit Tergantung Target Yang Dipilih```
