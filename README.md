@@ -30,7 +30,7 @@ $ python run.py
 # Password For Cracking
 ![alt text](https://raw.githubusercontent.com/InstaCodex/InstaFelixc/main/Screenshot/PassworCracking.jpg)
 
-# Hasil Cracking
+# Hasil Form Cracking
 ![alt text](https://raw.githubusercontent.com/InstaCodex/InstaFelixc/main/Screenshot/HasilCracking.jpg)
 
 ## Saran Gw
