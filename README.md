@@ -25,7 +25,7 @@ $ python run.py
 ![alt text](https://raw.githubusercontent.com/InstaCodex/InstaFelixc/main/Screenshot/MenuCracking.jpg?raw=true)
 
 # Methods For Cracking
-![alt text](https://raw.githubusercontent.com/InstaCodex/InstaFelixc/main/Screenshot/MethodCracking.jpg)
+![alt text]()
 
 # Password For Cracking
 ![alt text](https://raw.githubusercontent.com/InstaCodex/InstaFelixc/main/Screenshot/PassworCracking.jpg)
