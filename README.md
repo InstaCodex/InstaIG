@@ -20,7 +20,7 @@ $ python run.py
 ```
 <div align="center">
  
-<!--   <a href="https://www.producthunt.com/posts/the-documentation-compendium?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-the-documentation-compendium" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=157965&theme=dark&period=daily" alt="The Documentation Compendium - Beautiful README templates that people want to read. | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a> -->
+![alt text](https://raw.githubusercontent.com/InstaCodex/InstaCodex/main/Assets/20231204183116703.jpg)
 
 </div>
 
