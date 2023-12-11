@@ -20,7 +20,7 @@ $ python run.py
 ```
 <div align="center">
  
-![alt text](https://raw.githubusercontent.com/InstaCodex/InstaCodex/main/Assets/224462663-6b5e62a4-0427-4a10-b1df-c19e0860afe6.gif)
+![alt text](https://raw.githubusercontent.com/InstaCodex/InstaCodex/main/Assets/giphy%20(4).webp)
 
 </div>
 
