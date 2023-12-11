@@ -19,12 +19,7 @@ $ cd InstaFelixc
 $ python run.py
 ```
 
-
-<div align="center">
- 
-![alt text](https://raw.githubusercontent.com/InstaCodex/InstaCodex/main/Assets/giphy%20(4).webp)
-
-</div>
+<img src="https://raw.githubusercontent.com/InstaCodex/InstaCodex/main/Assets/giphy%20(4).webp" alt="Profile Image" width="100%">
 
 ## Saran Gw
 - Notice Me: ```Hasil Crack Followers Banyak Atau Sedikit Tergantung Target Yang Dipilih```
