@@ -14,8 +14,8 @@ $ pip install requests
 $ pip install stdiomask
 $ pip install bs4
 $ pip install rich
-$ git clone https://github.com/InstaCodex/InstaFelixc
-$ cd InstaFelixc
+$ git clone https://github.com/InstaCodex/BruteIG
+$ cd BruteIG
 $ python run.py
 ```
 
