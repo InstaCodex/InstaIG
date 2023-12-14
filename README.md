@@ -26,6 +26,6 @@ $ python run.py
 
 #### Update tools
 ``` bash
-$ cd InstaFelixc
+$ cd BruteIG
 $ git pull
-$ python IGF.py
+$ python run.py
