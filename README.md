@@ -15,7 +15,7 @@ $ pip install stdiomask
 $ pip install bs4
 $ pip install rich
 $ git clone https://github.com/InstaCodex/IGF
-$ cd BruteIG
+$ cd IGF
 $ python run.py
 ```
 
