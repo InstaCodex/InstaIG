@@ -1,5 +1,8 @@
 ##### Developer Tools
 - [InstaCodex]()
+  
+<img src="https://raw.githubusercontent.com/InstaCodex/InstaCodex/main/Assets/IMG_20240806_140015.png" alt="Profile Image" width="100%">
+  
 #### How it works?
 This script works or successfully enters an account by brute force using the password provided and the method provided, but this works to an account that is secure. low level if there is an account with high security logically it may be quite meaningful and difficult and for the blue ticked account results, you can just prioritize your IP so it doesn't get spam
 #### Features
@@ -22,9 +25,6 @@ $ git clone https://github.com/InstaCodex/InstaIG
 $ cd InstaIG
 $ python run.py
 ```
-
-<img src="https://raw.githubusercontent.com/InstaCodex/InstaCodex/main/Assets/giphy%20(4).webp" alt="Profile Image" width="100%">
-
 #### Notice Me
 - Notice Me: ```The results of cracking many or few followers depend on the target chosen```
 
