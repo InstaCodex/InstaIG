@@ -33,4 +33,5 @@ $ ./run.bin
 ``` bash
 $ cd IGF
 $ git pull
-$ python run.py
+$ chmod +x run.bin
+$ ./run.bin
