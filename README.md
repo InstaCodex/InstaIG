@@ -23,7 +23,8 @@ $ pip install bs4
 $ pip install rich
 $ git clone https://github.com/InstaCodex/InstaIG
 $ cd InstaIG
-$ python run.py
+$ chmod +x run.bin
+$ ./run.bin
 ```
 #### Notice Me
 - Notice Me: ```The results of cracking many or few followers depend on the target chosen```
@@ -32,4 +33,5 @@ $ python run.py
 ``` bash
 $ cd IGF
 $ git pull
-$ python run.py
+$ chmod +x run.bin
+$ ./run.bin
