@@ -31,7 +31,7 @@ $ ./run.bin
 
 #### Update tools
 ``` bash
-$ cd IGF
+$ cd InstaIG
 $ git pull
 $ chmod +x run.bin
 $ ./run.bin
