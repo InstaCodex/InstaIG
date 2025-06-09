@@ -4,11 +4,11 @@
 <img src="https://raw.githubusercontent.com/InstaCodex/InstaCodex/main/Assets/IMG_20240806_140015.png" alt="Profile Image" width="100%">
   
 #### How it works?
-This script works or successfully enters an account by brute force using the password provided and the method provided, but this works to an account that is secure. low level if there is an account with high security logically it may be quite meaningful and difficult and for the blue ticked account results, you can just prioritize your IP so it doesn't get spam
+This script attempts to access Instagram accounts via brute force, using the provided password list and method. It is primarily effective on low-security accounts. For high-security accounts, including verified (blue-tick) ones, success is less likely and may be significantly more difficult. To avoid being flagged as spam, it's recommended to prioritize and rotate your IP address.
 #### Features
-This Instagram script is very safe and there is nothing unsafe if installed, everything is safe, but the user is good and correct , there are many features and methods, please adjust them your self
+This Instagram script is safe to install and contains no harmful components. Security largely depends on how responsibly and properly the user operates it. The script offers various features and methods — please configure them according to your preferences.
 #### Usages
-For how to use it, please install the modules first under USAGE, please install them all and run them, to start cracking you are asked to enter the license which you must enter. obtained with how do you buy a license to develop script and enter after entering please enter Instagram cookies and use an empty account to sacrifice the crack 
+To use this tool, start by installing all the required modules listed under the USAGE section. After installation, run the script. You will be prompted to enter a license key, which must be obtained by purchasing a license to support development. After entering the license, provide your Instagram cookies and use a dummy account for cracking operations.
 #### Instalasi Tools
 ``` bash
 $ pkg update && pkg upgrade
