@@ -25,7 +25,7 @@ $ git clone https://github.com/InstaCodex/InstaIG
 $ cd InstaIG
 $ chmod +x run.bin
 $ ./run.bin
-```
+``
 #### Notice Me
 - Notice Me: ```The results of cracking many or few followers depend on the target chosen```
 
